@@ -19,6 +19,7 @@ import shopping from "./Images/shopping-cart.png"
 import users from "./Images/users.png"
 import vector from "./Images/Vector.png"
 import avatar from "./Images/Avatar.png"
+import tick from "./Images/tick.png"
 const Images={
 logo,
 hero,
@@ -40,6 +41,7 @@ server,
 shopping,
 users,
 vector,
-avatar
+avatar,
+tick
 };
 export default Images;
