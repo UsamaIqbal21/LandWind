@@ -188,7 +188,7 @@ function Feature() {
                     </div>
                     <div>
                       <h4 className="text-gray-900 text-base font-medium leading-relaxed font-inter">
-                        Knowledge Management
+                        Knowledge management
                       </h4>
                     </div>
                   </div>

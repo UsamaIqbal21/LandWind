@@ -12,6 +12,13 @@ import twitter from "./Images/twitter.png"
 import checkcircle from "./Images/checkcircle.png"
 import feature1 from "./Images/feature1.png"
 import feature2 from "./Images/feature2.png"
+import arrow from "./Images/arrow.png"
+import globe from "./Images/globe.png"
+import server from "./Images/server.png"
+import shopping from "./Images/shopping-cart.png"
+import users from "./Images/users.png"
+import vector from "./Images/Vector.png"
+import avatar from "./Images/Avatar.png"
 const Images={
 logo,
 hero,
@@ -26,6 +33,13 @@ facebook,
 twitter,
 checkcircle,
 feature1,
-feature2
+feature2,
+arrow,
+globe,
+server,
+shopping,
+users,
+vector,
+avatar
 };
 export default Images;

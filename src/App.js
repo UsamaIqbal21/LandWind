@@ -4,6 +4,8 @@ import "aos/dist/aos.css";
 import Navbar from "./Components/Navbar";
 import Images from "./Assets/Images";
 import Feature from "./Components/Feature";
+import SocialProof from "./Components/SocialProof";
+import Testimonials from "./Components/Testimonials";
 function App() {
   useEffect(() => {
     AOS.init({ duration: 2000 });
@@ -106,6 +108,8 @@ function App() {
         </div>
       </section>
       <Feature/>
+      <SocialProof/>
+      <Testimonials/>
     </>
   );
 }
