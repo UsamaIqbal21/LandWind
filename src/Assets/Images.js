@@ -20,6 +20,8 @@ import users from "./Images/users.png"
 import vector from "./Images/Vector.png"
 import avatar from "./Images/Avatar.png"
 import tick from "./Images/tick.png"
+import dribbble from "./Images/dribbble.png"
+import github from "./Images/github.png"
 const Images={
 logo,
 hero,
@@ -42,6 +44,8 @@ shopping,
 users,
 vector,
 avatar,
-tick
+tick,
+dribbble,
+github
 };
 export default Images;

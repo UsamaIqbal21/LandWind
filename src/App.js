@@ -9,6 +9,7 @@ import Testimonials from "./Components/Testimonials";
 import Pricing from "./Components/Pricing";
 import FAQS from "./Components/FAQS";
 import FreeTrail from "./Components/FreeTrail";
+import Footer from "./Components/Footer";
 function App() {
   useEffect(() => {
     AOS.init({ duration: 2000 });
@@ -116,6 +117,7 @@ function App() {
       <Pricing/>
       <FAQS/>
       <FreeTrail/>
+      <Footer/>
     </>
   );
 }

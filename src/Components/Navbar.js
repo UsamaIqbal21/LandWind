@@ -202,13 +202,16 @@ const Navbar = () => {
           </div>
           <div className="flex space-x-2 items-center justify-center">
             <div>
-              <img src={Images.facebook} alt="" width={33} height={33} />
+              <img src={Images.github} alt="" width={33} height={33} />
             </div>
             <div>
               <img src={Images.twitter} alt="" width={33} height={33} />
             </div>
             <div>
-              <img src={Images.instagram} alt="" width={33} height={33} />
+              <img src={Images.dribbble} alt="" width={33} height={33} />
+            </div>
+            <div>
+              <img src={Images.facebook} alt="" width={33} height={33} />
             </div>
           </div>
         </div>
