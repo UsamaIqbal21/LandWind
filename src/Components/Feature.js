@@ -7,7 +7,7 @@ function Feature() {
     AOS.init({ duration: 2000 });
   }, []);
   return (
-    <section className="bg-[#F9FAFB]">
+    <section id="Features" className="bg-[#F9FAFB]">
       <div className="py-24">
         <div className="container mx-auto px-4">
           <div className="2xl:px-32">

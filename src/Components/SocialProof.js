@@ -7,7 +7,7 @@ function SocialProof() {
     AOS.init({ duration: 2000 });
   }, []);
   return (
-    <section>
+    <section id="Marketplace">
       <div className="py-32">
         <div className="container mx-auto px-4">
           <div className="2xl:px-36">
